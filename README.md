@@ -15,3 +15,9 @@ All the Information for setting up a great productive environment freshly instal
 
 1. [Rectangle](https://rectangleapp.com/) - [Source](https://github.com/rxhanson/Rectangle)
 2. [InsomniaX](https://mac.filehorse.com/download-insomniax/)
+
+
+## Entertainment 
+
+1. [VLC](https://www.videolan.org/vlc/download-macosx.html)
+2. [Pine Player](https://apps.apple.com/ca/app/pine-player/id1112075769?mt=12)
